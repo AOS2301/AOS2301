@@ -1,26 +1,22 @@
-# Olá, eu sou Arthur! 👋
+# Olá, eu sou Arthur Osvaldo Schmitz!
 
 ## Sobre mim
-Sou desenvolvedor Front-end especializado em **Vue.js** e apaixonado por construir interfaces modernas e responsivas. Tenho experiência com JavaScript, HTML, CSS e frameworks modernos.
+Sou desenvolvedor **Full Stack** com foco em **Java (Spring Boot)** no back-end e em constante especialização no **Vue.js** para o front-end. Tenho paixão por desenvolver sistemas que resolvem problemas reais, otimizam processos e entregam experiências modernas e responsivas aos usuários.
+Possuo experiência com **JavaScript**, **HTML**, **CSS** e frameworks modernos, atuando na criação de soluções eficientes e bem estruturadas, tanto na camada visual quanto na lógica de negócio.
 
 ## Tecnologias & Skills
-- 🚀 Vue.js | Vue Router | Vuex / Pinia  
-- 💻 JavaScript (ES6+)  
-- 🎨 CSS3 / SCSS / Tailwind CSS  
-- 📦 Webpack / Vite  
-- ⚙️ Git / GitHub  
-- 🔧 REST APIs / Axios  
 
-## Projetos recentes
-| Projeto       | Descrição                          | Link                            |
-| ------------- | -------------------------------- | -------------------------------|
-| Portfolio     | Meu site pessoal com Vue.js       | [github.com/arthur123/portfolio](https://github.com/arthur123/portfolio) |
-| Sistema X     | Sistema de gestão interno          | [github.com/arthur123/sistema-x](https://github.com/arthur123/sistema-x) |
+- ☕ Java | Spring Boot | JPA
+- 🌐 RESTful APIs | JSON
+- 💻 Vue.js | Vue Router
+- 🧠 JavaScript (ES6+) | HTML5 | CSS3
+- ⚙️ Git | GitHub 
+- 📦 Webpack | Vite  
+- 🗄️ MySQL | PostgreSQL  
 
 ## Contato
-- 📧 Email: arthur@email.com  
-- 💼 LinkedIn: [linkedin.com/in/arthur](https://linkedin.com/in/arthur)  
-- 🐦 Twitter: [twitter.com/arthur](https://twitter.com/arthur)  
+- 📧 Email: schmertzs2@gmail.com 
+- 💼 LinkedIn: [https://linkedin.com/in/arthur](https://www.linkedin.com/in/arthur-schmitz-689311283/))  
 
 ---
 
