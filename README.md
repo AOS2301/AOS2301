@@ -21,4 +21,4 @@ Possuo experiência com em todos os processos de desenvolvimento de aplicação,
 
 ---
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur123&show_icons=true&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOS2301&show_icons=true&theme=radical)
