@@ -1,9 +1,9 @@
-# Olá, eu sou Arthur Osvaldo Schmitz!
+# Hi, I'm Arthur Osvaldo Schmitz!
 
-## Sobre mim
-Sou desenvolvedor **Full Stack** com habilidades em desenvolvimento **Java (Spring Boot)** no back-end e para as tecnologias de Front-end estou me especializando desenvolvimento usando JavaScript e para melhor adaptabilidade frameworks como **Vue.js**.
-Tenho paixão por desenvolver sistemas que resolvam problemas reais, otimizam processos e entregam experiências modernas e responsivas aos usuários.
-Possuo experiência com em todos os processos de desenvolvimento de aplicação, atuando na criação de soluções eficientes e bem estruturadas, tanto na camada visual quanto na lógica de negócio.
+## About me
+I'm a **Full Stack** developer with skills in **Java (Spring Boot)** for back-end development, and on the front-end I’m specializing in JavaScript along with frameworks such as **Vue.js** for greater adaptability.
+I’m passionate about building systems that solve real-world problems, optimize processes, and deliver modern, responsive user experiences.
+I have experience across the entire application development lifecycle, creating efficient and well-structured solutions both in the visual layer and in business logic.
 
 ## Tecnologias & Skills
 
@@ -17,7 +17,7 @@ Possuo experiência com em todos os processos de desenvolvimento de aplicação,
 
 ## Contato
 - 📧 Email: schmertzs2@gmail.com 
-- 💼 LinkedIn: [https://linkedin.com/in/arthur](https://www.linkedin.com/in/arthur-schmitz-689311283/))  
+- 💼 LinkedIn: [https://linkedin.com/in/arthur](https://www.linkedin.com/in/arthur-schmitz-689311283/)  
 
 ---
 
