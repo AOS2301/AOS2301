@@ -16,7 +16,7 @@ I have experience across the entire application development lifecycle, creating 
 - 🗄️ MySQL | PostgreSQL  
 
 ## Contato
-- 📧 Email: schmertzs2@gmail.com 
+- 📧 Email: arthurschmitz2301@gmail.com 
 - 💼 LinkedIn: [https://linkedin.com/in/arthur](https://www.linkedin.com/in/arthur-schmitz-689311283/)  
 
 ---
