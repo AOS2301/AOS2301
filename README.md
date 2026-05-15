@@ -22,4 +22,4 @@ Tecnologias & Skills
 
 ---
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOS2301&show_icons=true&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOS2301&show_icons=true&theme=tokyonight&cache_seconds=1800)
