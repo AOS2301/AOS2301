@@ -8,13 +8,13 @@ I have experience across the entire application development lifecycle, creating 
 ## Tecnologias & Skills
 
 Tecnologias & Skills
-⚡ Node.js | JavaScript (ES6+)
-🌐 REST APIs | JSON
-🧠 HTML5 | CSS3
-🐳 Docker
-⚙️ Git | GitHub
-🗄️ PostgreSQL
-🚀 Explorando backend, IA e projetos reais
+-⚡ Node.js | JavaScript (ES6+)
+-🌐 REST APIs | JSON
+-🧠 HTML5 | CSS3
+-🐳 Docker
+-⚙️ Git | GitHub
+-🗄️ PostgreSQL
+-🚀 Explorando backend, IA e projetos reais
 
 ## Contato
 - 📧 Email: arthurschmitz2301@gmail.com 
